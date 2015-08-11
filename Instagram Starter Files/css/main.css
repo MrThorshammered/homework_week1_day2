@@ -34,4 +34,23 @@ h4 {
 	border-color: black;
 	text-align: right;
 }
+nav {
+	display: inline-block;
+}
+
+button {
+  font-size: 20px;
+  color: white;
+  border: 2px solid #06365f;
+  border-radius: 4px;
+  padding: 7px 10px;
+  background: #fff url("../images/bgtile.png") repeat-x;
+}
+#home {
+	padding-right: 5px;
+}
+
+#brand {
+	padding-right: 40%;
+}
 
