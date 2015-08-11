@@ -21,9 +21,10 @@ p {
 
 a{
 	text-decoration: none;
-	color: #1c5380;
+	font-color: #1c5380;
 	display: inline-block;
 	margin: 30, 0;
+	font-style: bold;
 }
 h4 {
 	display: inline-block;
@@ -32,10 +33,12 @@ h4 {
 	display: inline-block;
 	width: 40%;
 	border-color: black;
-	text-align: right;
+	margin-top: 170px;
+	vertical-align: top;
 }
 nav {
 	display: inline-block;
+	padding-left: 30%;
 }
 
 button {
@@ -51,6 +54,11 @@ button {
 }
 
 #brand {
-	padding-right: 40%;
+	vertical-align: middle;
+	display: inline-block;
 }
+#phone {
+	margin-top: 20px;
+}
+
 
