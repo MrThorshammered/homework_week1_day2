@@ -89,3 +89,7 @@ button {
 	display: inline-block;
 	vertical-align: top;
 }
+#text-box p b{
+     color: #1c5380;
+ }
+
